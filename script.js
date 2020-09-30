@@ -12,7 +12,7 @@
  * @param {String} ele_id <p>Element ID</p>
  */
 function blinkJs(ele_id) {
-  let f = document.getElementById(ele_id);
+  var f = document.getElementById(ele_id);
   if (f) {
     setInterval(function() {
       f.style.visibility = (f.style.visibility == 'hidden' ? '' : 'hidden');
