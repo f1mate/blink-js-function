@@ -3,7 +3,8 @@
  * Published by  : F1Mate
  * Publisher URL : https://f1mate.com
  * Contributors  : f1mate, 1amitgupta (Github)
- * Version       : v1.00
+ * Version       : v1.01
+ * LICENSE       : MIT License, Copyright (c) 2020 F1 Mate (f1mate)
  * Github URL    : https://github.com/f1mate/blink-js-function
  */
 
